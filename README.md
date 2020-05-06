@@ -1,4 +1,4 @@
-# Paytm-NopCommerce
+# Paytm-NopCommerce 4.30
 
 The 'Nop.Plugin.Payments.Paytm' directory contains source code.
 Copy it into \Plugins directory on your server.
