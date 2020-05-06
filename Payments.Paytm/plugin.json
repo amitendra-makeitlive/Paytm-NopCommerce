@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Paytm",
+  "SystemName": "Payments.Paytm",
+  "Version": "4.10",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Dheeraj kumar shukla",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Paytm.dll",
+  "Description": "This plugin allows paying with Paytm"
+}
